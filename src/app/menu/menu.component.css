@@ -1,0 +1,30 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+  background-color: rgb(68, 68, 230);
+
+}
+
+span{
+  color: white;
+  padding: 1%;
+}
+
+span a{
+
+  color: white;
+  text-decoration: none;
+}
+
+mat-icon{
+  color: white;
+}
+
+img{
+  height: 45px;
+  width: 45px;
+  margin-right: 5px;
+}
+

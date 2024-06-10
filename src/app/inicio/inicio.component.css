@@ -1,0 +1,46 @@
+.carousel-item {
+width: 100%;
+}
+
+
+.carousel-item img {
+    max-height: 350px;
+    object-fit: fill;
+    width: auto;
+  }
+
+
+h2{
+  text-align: center;
+  padding-top: 3%;
+}
+
+
+#inicio{
+  padding: 5%;
+}
+
+.card-group{
+  width: 100%;
+}
+
+.card-img-top{
+  height: 300px;
+}
+
+.card{
+  margin-right: 50px;
+}
+
+.botao_preco{
+
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
